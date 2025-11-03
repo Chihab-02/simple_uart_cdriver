@@ -83,5 +83,5 @@ module_init(uart_emulation_init);
 module_exit(uart_emulation_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Chihab");
 MODULE_DESCRIPTION("Emulated UART Communication Driver");
